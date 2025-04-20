@@ -1,76 +1,198 @@
 postpone | vt. 推迟，延缓
 descend | vt. vi. 下来，下降
-intimate | adj. 亲密的，幽静舒适的
-pinch | vt. 捏，掐，行窃，逮捕
+intimate | adj. 亲密的 | adj. 幽静舒适的
+pinch | vt. 捏，掐 | vt. 行窃 | vt. 逮捕
 forthcoming | adj. 即将到来的
 ashore | adv. 在岸上，向岸上
 diagnose | vt. vi. 诊断（病症）
 bait | vt. 给（鱼饵或陷阱）上诱饵
 inertia | n. 惯性
-penetrate | vt. vi. 穿过，进入，渗透（组织、团体）
+penetrate | vt. vi. 穿过，进入 | vt. vi. 渗透（组织、团体）
 plain | adj. 平凡的 | adv. 完全地，简直
 distill | vt. 蒸馏，提炼（信息）
-revolve | vi. 围绕，以...为中心
-blunder | n. 愚蠢的错误，疏忽，失误
+revolve | vi. 围绕 | vi. 以...为中心
+blunder | n. 愚蠢的错误 | n. 疏忽，失误
 obsolete | adj. 淘汰的，过时的，废弃的
 incidence | n. 发生率
 compel | vt. 强迫，逼迫
 assassinate | vt. （尤以政治目的的）暗杀，行刺
 advocate | vt. 提倡，主张 | n. 拥护者，提倡者
 controversy | n. 争论，争议
-procession | n. 队伍，行列，游行
+procession | n. 队伍，行列 | n. 游行
 contradict | vt. 相矛盾
 extravagant | adj. 奢侈的，铺张浪费的
-resilient | adj. 坚韧的，有适应力的
+resilient | adj. 坚韧的 | adj. 有适应力的
 compliment | n. 称赞，赞美的话
 compensate | vi. 弥补，补偿 | vt. 给...补偿
 generalize | vi. 概括，归纳
-convene | vt. vi. 召集，召开，集合
+convene | vt. vi. 召集，召开 | vt. vi. 集合
 staple | n. 支柱产品
 protest | n. 抗议，反对 | vt. 申辩，申明
 graceful | adj. 优美的，优雅的
 erect | vt. 建造
-tempo | n. （乐曲的）节奏，（发展的）速度
-sprout | vt. vi. 发芽，抽芽，长出（毛发等）
-impetus | n. 动力，促进，刺激
-shipment | n. 运输，运送，（一批）运输的货物
-withhold | vt. 拒绝给予，扣留，隐瞒
-analysis | n. 分析，化验
-sphere | n. 范围，领域
-intelligible | adj. 可理解的，明白易懂的
+tempo | n. （乐曲的）节奏 | n. （发展的）速度
+sprout | vt. vi. 发芽，抽芽 | vt. 长出（毛发等）
+impetus | n. 动力，刺激 | n. 促进
+shipment | n. 运输，运送 | n. （一批）运输的货物
+withhold | vt. 拒绝给予 | vt. 扣留 | vt. 隐瞒
+analysis | n. 分析 | n. 化验
+sphere | n. 范围 | n. 领域
+intelligible | adj. 可理解的 | adj. 明白易懂的
 overlap | vt. vi. （与...）重叠
-executive | n. 经理，主管 | adj. 执行的，行政的，高级的
+executive | n. 经理，主管 | adj. 执行的，行政的 | adj. 高级的
 strenuous | adj. 竭尽全力的
 formula | n. 方案
 competent | adj. 能胜任的
-grip | n. 紧握，紧抓，掌握，控制 | vt. 对...具有强烈影响
-grasp | vt. 抓紧，理解，急忙抓住（机会） | n. 理解（力）
+grip | n. 紧握，紧抓 | n. 掌握，控制 | vt. 对...具有强烈影响
+grasp | vt. 抓紧，理解 | vt. 急忙抓住（机会） | n. 理解（力）
 curb | vt. 控制，限制，抑制 | n. 控制，限制，抑制
 amid | prep. 在...过程中
 inhabitant | n. 居民，栖居的动物
+camel | n. 骆驼 | n. 驼毛，驼绒
+catastrophe | n. 重大灾难，横祸
+conviction | n. 定罪
+weekday | n. 工作日 | adv. 在工作日
+sprinkle | vt. 洒，撒 | vt. 使零星分布，点缀 | n. 少量，一点 | n. 小雨
+snatch | vt. vi. 一把抓起 | vt. vi. 迅速抓住
+omit | vt. 省略，遗漏
+cozy | adj. 温暖舒适的 | adj. 亲密的
+overnight | adv. 突然，一夜之间
+anyhow | adv. 无论如何，反正 | adv. 尽管如此
+menace | n. 危险的事物（人） | n. 威胁
+roundabout | adj. 绕远的 | adj. （说话）拐弯抹角的
+pretext | n. 借口，托辞
+consolidate | vt. vi. （使）加强，（使）巩固 | vt. vi. （使）合并
+retain | vt. 保持，保留
+overtime | n. 加班费
+spouse | n. 配偶
+augment | vt. 增大 | vt. 增加 | vt. 加强
+oath | n. 宣誓，誓言 | n. 咒骂，诅咒的话
+bracket | n. 括号
+volatile | adj. 不稳定的 | adj. 易挥发的
+ascertain | vt. 弄清，查明
+rash | adj. 轻率的，鲁莽的 | n. 疹子 | n. 大量
+naughty | adj. 顽皮的 | adj. （书等）下流的
+numerous | adj. 众多的，许多的
+purse | n. 钱包
+retail | n. 零售
 gauge | n. 标准
 strap | n. 带子 | vt. 用带子系（或绑）
+daunting | adj. 使人气馁的 | adj. 吓人的
 cruise | vi. 以平稳的速度行驶
 whereas | conj. 然而，但是
-optical | adj. 视力的，光的，光学的
+optical | adj. 视力的 | adj. 光的，光学的
 distress | vt. 使忧虑，使悲伤，使苦恼
 migrate | vt. 迁徙，移居
-await | vt. 等待，期待
+await | vt. 等待 | vt. 期待
 lend | vt. 借给，借出
-imperial | adj. 帝国的，皇帝的，英制的
+imperial | adj. 帝国的 | adj. 皇帝的 | adj. 英制的
 haste | n. 匆忙，仓促
 align | vt. 使一致
-preclude | vt. 阻止，妨碍，排除
+preclude | vt. 阻止，妨碍 | vt. 排除
 manuscript | n. 手稿，原稿，底稿
 summit | n. 山顶，顶峰
 sheet | n. 一张
-audience | n. 观众，听众，读者
-cord | n. 粗线，细绳，电源线，灯芯绒裤
-discretion | n. 自主决定权，谨慎，慎重
+audience | n. 观众，听众 | n. 读者
+cord | n. 粗线 | n. 细绳 | n. 电源线 | n. 灯芯绒裤
+discretion | n. 自主决定权 | n. 谨慎，慎重
 tackle | vt. 处理（难题）
 presume | vt. vi. 推测，猜测
-alienate | vt. 使疏远，使不友好，使格格不入
+alienate | vt. 使疏远，使格格不入 | vt. 使不友好
 plea | n. 恳求
+manual | adj. 人力的 | adj. 体力的 | n. 使用手册，说明书
+hay | n. 草料 | n. 少量的钱
+velvet | n. 天鹅绒，丝绒
+hop | vi. 跳跃 | vt. 登上（飞机、汽车、火车等） | n. 舞会
+freelance | adj. 自由职业（者）的 | adv. 以自由职业者身份 | vi. 从事自由职业
+persevere | vi. 坚持不懈，锲而不舍
+latitude | n. 纬度 | n. 余地 | n. 自由
+evaporate | vi. 逐渐消失
+linen | n. 亚麻布，亚麻制品
+extract | vt. 提取，拔出 | vt. 摘录
+plough | vt. vi. 犁（地），耕（地）
+tease | vt. vi. 戏弄，取笑
+descendant | n. 后代，后裔
+hail | vt. 赞扬 | vi. 来自 | vi. 出生于
+slippery | adj. 滑溜溜的 | adj. 模棱两可的
+pact | n. 条约，协定，协议
+conspicuous | adj. 易见的，明显的 | adj. 惹人注意的
+civilian | n. 平民，百姓
+tutor | n. 家庭教师，助教，导师 | vt. 教授，辅导
+fellowship | n. 友谊，交情 | n. 团体，协会 | n. 研究生奖学金 | n. （大学）研究员
+bypass | n. （心脏）搭桥手术 | vt. 绕过，绕...走 | vt. （做某事时）避开
+lorry | n. 卡车，货车
+singular | adj. 非凡的
+pool | n. 游泳池 | n. 池塘 | n. 后备人员 | vt. 集中资源
+rot | n. 衰败
+dense | adj. 密集的
+foul | adj. 难闻的，恶心的 | adj. 很令人不快的 | vt. （体育运动）犯规
+retreat | vi. 撤退 | vi. 躲避 | n. 撤退，逃避 | n. 僻静处 | n. 静修
+bibliography | n. 参考书目，文献目录
+tender | adj. 温柔的 | vt. 提议 | n. 投标
+feast | n. 特别的享受
+exterior | n. 外部，外观 | adj. 外面的
+overhear | vt. 偶然听到
+embark | vi. 从事，着手，开始做
+vibrate | vt. vi. （使）振动，（使）颤动
+excel | vi. 突出 | vi. 擅长 | vi. 胜过（他人）
+glory | n. 荣誉，光荣 | n. 壮丽，辉煌
+disturbance | n. 干扰，骚乱
+irritate | vt. 使烦躁 | vt. 激怒
+sector | n. 部门，行业
+analog | adj. （技术）模拟的
+jargon | n. 行话
+uniform | n. 制服 | adj. 始终如一的
+quarrel | n. 争吵，吵架
+inject | vt. 给...添加
+resign | vt. vi. 辞职
+geology | n. 地质学
+cordial | adj. 热情友好的，和蔼可亲的 | n. 烈性甜酒
+portfolio | n. 文件夹 | n. 作品集 | n. 投资组合
+submarine | n. 潜艇 | adj. 海底的
+discreet | adj. （言行）谨慎的 | adj. 不显眼的
+external | adj. 外部的
+republican | n. 共和党人
+civilize | vt. 教化，使开化
+oral | adj. 口头的
+discrete | adj. 分开的，分离的 | adj. 各自的
+cargo | n. （轮船，飞机所装载的）货物
+adjacent | adj. 邻近的，毗连的
+acquaint | vt. 使熟悉，使了解
+reproach | n. 责备，批评 | n. 丢脸 | vt. 责备 | vt. 为...感到内疚
+incidentally | adv. 顺便提一下
+impair | vt. 削弱，损伤
+defy | vt. 违抗，违反
+generation | n. 一代，产生
+dispute | n. 争论，争端 | vt. 对...表示异议，对...表示质疑 | vt. vi. 就...争论，就...争执
+partial | adj. 部分的 | adj. 偏袒的
+servant | n. 仆人 | n. 政府雇员
+fulfill | vt. 实现，履行 | vt. 达到
+column | n. 专栏
+degree | n. 程度 | n. 学位
+specialize | vi. 专门从事，专门研究
+tempt | vt. 引诱，怂恿
+capable | adj. 能做...的 | adj. 能力强的，能干的
+yield | vt. 出产，产生 | vi. 屈服，让步 | vi. 给（车辆）让路 | n. 产量，产出
+behalf | n. 代表（某人） | n. 为了...的利益
+swarm | vi. 成群移动 | vi. 涌向，蜂拥
+guarantee | vt. 担保，确保 | n. 保证，保证金
+peculiar | adj. 古怪的 | adj. 特有的
+judicial | adj. 审判的 | adj. 司法的，法庭的
+deposit | n. 押金 | vt. 存入银行
+harmony | n. 融洽，和睦 | n. 和声
+vulgar | adj. 粗俗的，俗气的
+transport | n. 交通运输系统 | n. 交通工具
+condemn | vt. 谴责
+distort | vt. 歪曲，曲解
+sociology | n. 社会学
+formal | adj. 正式的，正规的
+outset | n. 开始，起始
+memo | n. 备忘录 | n. 公务便条
+toll | n. 严重后果
+transient | adj. 短暂的
+authority | n. 权威，权力 | n. 当权者 | n. 官方 | n. 授权
+embryo | n. 胚胎
+convey | vt. 表达，传达 | vt. 传递
 acclaim | vt. 赞扬，公开称赞 | n. 赞扬，公开称赞
 mediate | vt. vi. 调停，调解
 discriminate | vi. 歧视，区别对待
@@ -612,7 +734,6 @@ litter | vt. 使乱七八糟
 hose | n. 软管，胶管，（旧时）男式紧身裤 | vt. 用软管洒水、清洗等
 moist | adj. 湿润的，潮湿的
 vacant | adj. 空的，（职位）空缺的
-acquaint | vt. 使熟悉，使了解
 solidarity | n. 团结一致，相互支持
 minority | n. 少数，少数民族，少数群体
 vapor | n. 蒸气，水汽
@@ -621,7 +742,6 @@ antique | n. 古董，古玩
 nuisance | n. 讨厌的人，麻烦的事，非法妨害
 criterion | n. 标准，准则
 burglar | n. 破门盗窃者，窃贼
-adjacent | adj. 邻近的，毗连的
 peninsula | n. 半岛
 remarkable | adj. 非凡的，不同寻常的
 retrospect | n. 回顾，回想
@@ -714,7 +834,6 @@ exceedingly | adv. 极其，非常
 abdomen | n. 腹部
 stereotype | n. 成见，刻板印象 | vt. 对...有成见
 pint | n. 品脱，一品脱啤酒
-daunting | adj. 使人气馁的，吓人的
 hygiene | n. 卫生，保健
 slump | n. 暴跌
 marine | adj. 海洋的，海产的
@@ -781,7 +900,6 @@ residence | n. 住处，住宅，居住
 intermittent | adj. 间歇的，断断续续的
 doctrine | n. 信条，主义，教义
 persecute | vt. 迫害，残害，压迫，骚扰，打扰
-reproach | n. 责备，批评，丢脸 | vt. 责备，为...感到内疚
 boundary | n. 分界线，边界
 bound | adj. 肯定会的，受约束的，前往...的
 glorious | adj. 壮丽的
@@ -847,9 +965,7 @@ dilemma | n. （进退两难的）窘境
 via | prep. 通过，凭借
 thick | adj. 厚的，粗的，浓密的
 beware | vt. vi. 当心，提防
-cargo | n. （轮船，飞机所装载的）货物
 register | vt. vi. 注册，登记，显示（读数），记录 | n. 登记表，现金收纳机
-discrete | adj. 分开的，分离的，各自的
 assignment | n. 作业，任务
 salvation | n. 救赎，救助途径
 synthesis | n. 合成
@@ -859,3 +975,35 @@ conquer | vt. 占领，征服，克服
 compulsory | adj. 强制性的，义务的
 shiver | vi. 哆嗦，发抖 | n. 寒战，颤抖
 resolute | adj. 坚决的，坚定的，果断的
+fluent | adj. 流利的，流畅的
+allege | vt. 断言，声称，指控
+evoke | vt. 引起，唤起（回忆或感情等）
+tactic | n. 策略，手段
+discern | vt. 觉察出，了解
+solemn | adj. 严肃的，郑重的，庄严的
+commonplace | n. 寻常事物
+gram | n. 克（重量单位）
+thermal | adj. 热的，保暖的 | n. 保暖内衣裤，上升的热气流
+dwarf | adj. （动植物）矮小的 | vt. 使显得矮小，使相形见绌
+foundation | n. 基础，基金会
+adolescent | n. 青少年 | adj. 青少年的
+crude | adj. 粗略的，粗糙的，天然的 | n. 原油，石油
+plague | n. 灾害，祸患 | vt. 困扰，折磨
+farther | adv. （时间、空间上）更远 | adj. （时间、空间上）更远的
+dismay | n. （因惊愕而）诅丧，忧虑 | vt. 使担心，使失望
+steward | n. 管家
+telegraph | n. 电报，电报机
+snap | adj. 匆忙的，仓促的，迅速的
+interval | n. 间隔
+tiresome | adj. 令人厌倦的，讨厌的
+drill | vt. vi. 钻（孔）
+lobby | n. 游说团体，游说 | vt. vi. 游说（从政者或政府）
+redundant | adj. 多余的，累赘的，被裁员的
+bleak | adj. 没有希望的
+grave | n. 死亡，去世 | adj. 严重的，严峻的
+idiom | n. 习语，成语
+wedge | n. 楔子，楔形物
+escalate | vt. vi. （使）不断恶化，（使）扩大，增加
+merchant | n. 商人，批发商
+shrink | vt. vi. （使）缩小，减少
+broad | adj. 宽阔的，概括的，广泛的

@@ -1,6 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.*;
+import java.util.List;
 
 @SuppressWarnings("ALL")
 public class MemorizeTheWords {
@@ -52,7 +53,6 @@ public class MemorizeTheWords {
             }
         }
     }
-}
 
 @SuppressWarnings("ALL")
 class ChineseToEnglish {
@@ -60,6 +60,8 @@ class ChineseToEnglish {
     private static int limitTime;
     private static int score;
     private static int maxScore;
+    // 时间因数（默认1.5）
+    private static double timeFactor = 1.5;
     private static String input;
     private static String[] splits;
 
@@ -78,7 +80,7 @@ class ChineseToEnglish {
                     splits[j] = splits[j].trim();
                 }
 
-                limitTime = (int) (splits[0].length() * 1.5) * 20;
+                limitTime = (int) (splits[0].length() * timeFactor) * 20;
                 System.out.println("目前：" + (maxScore - words.size()) + " / " + maxScore);
                 for (int j = 1; j < splits.length; j++) {
                     System.out.println(splits[j]);
@@ -104,7 +106,7 @@ class ChineseToEnglish {
             }
 
             limitTime -= 1;
-            if (limitTime == 0) {
+            if (limitTime < 0) {
                 stopTimerThread = true;
 
                 System.out.println("TOO SLOW!");
@@ -131,6 +133,30 @@ class ChineseToEnglish {
     }
 
     public void run() {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("要调整时间因数吗（默认1.5），若要输入Y，不要输入其它内容：");
+        if (sc.next().toUpperCase().charAt(0) == 'Y') {
+            System.out.println("请输入新的时间因数（一个正小数）：");
+            while (true) {
+                try {
+                    timeFactor = sc.nextDouble();
+                    if (timeFactor <= 0) {
+                        System.out.println("请输入一个正小数！");
+                        continue;
+                    }
+                    System.out.println("时间因数已被调整为" + timeFactor);
+                    System.out.println("\r\n\r\n\r");
+                    break;
+                } catch (Exception e) {
+                    System.out.println("你输入的不是一个数字，请重新输入！");
+                    // 消耗掉输入缓冲区的无效行
+                    sc.nextLine();
+                    continue;
+                }
+            }
+        }
+
         timerThread.start();
         inputThread.start();
     }
@@ -188,6 +214,8 @@ class EnglishToChinese {
                     }
                 }
                 answer.sort(Comparator.naturalOrder());
+                // 尝试次数，尝试三次防止重复词义出现
+                int attempt = 0;
                 OUT2:
                 while (choiceList.size() != 8) {
                     String randomMeaning = meaningList.get((int) (Math.random() * meaningList.size()));
@@ -200,6 +228,14 @@ class EnglishToChinese {
 
                     int randomChoice = (int) (Math.random() * choices.length);
                     if (!isOccupied[randomChoice]) {
+                        if (choiceList.contains(randomMeaning)) {
+                            attempt += 1;
+                            // 若尝试三次依旧有重复词义，放弃
+                            if (attempt != 3) {
+                                continue;
+                            }
+                        }
+                        attempt = 0;
                         isOccupied[randomChoice] = true;
                         choiceList.add(choices[randomChoice] + randomMeaning);
                     }
@@ -247,7 +283,7 @@ class EnglishToChinese {
             }
 
             limitTime -= 1;
-            if (limitTime == 0) {
+            if (limitTime < 0) {
                 stopTimerThread = true;
                 num -= 1;
                 input = null;
